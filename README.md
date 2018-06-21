@@ -16,7 +16,7 @@ Reviews provide high credibility to customers to decide whether to buy the produ
 4. Ability to remind multiple times (first, second and third)
 5. Customizable review page
 6. Review prompts are automatically sent to the customer
-7. Easily configure order status, time and email templates
+7. [Easily configure](https://docs.mageplaza.com/review-reminder/index.html#configuration) status, time and email templates
 8. Allows administrators to control review prompts
 9. Allows the customer to leave a review on the product page
 10. Enable display of reviews on product pages
@@ -32,5 +32,5 @@ Reviews provide high credibility to customers to decide whether to buy the produ
 20. Allows administrators to receive more product reviews
 21. Easily display product reviews on the product page
 22. Enable the use of different templates when sending emails to customers
-23. Automatically send review reminders to customers
+23. [Automatically send review reminders to customers](https://chrome.google.com/webstore/detail/magento-2-review-reminder/lndjhpdjopmaiebnpcckfgjfjneelbkm)
 24. It is possible to sort and filter product reviews
